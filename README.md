@@ -1,4 +1,5 @@
-# gut
+![gut logo](assets/logo.png)
+
 
 Mini sistema de controle de versão inspirado no Git, escrito em Rust.
 

@@ -1,0 +1,51 @@
+/target
+
+# Rust
+/target/
+Cargo.lock
+
+# Gut repositories
+.gut/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Secrets
+*.pem
+*.key
+*.crt
+*.p12
+id_rsa
+id_ed25519
+
+# Temporary
+*.tmp
+*.temp
+
+# Backups
+*.bak
+*.old
+
+# Swap
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# Build artifacts
+/dist/
+/build/

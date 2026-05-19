@@ -1,0 +1,12 @@
+[package]
+name = "gut"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+sha1 = "0.10"
+hex = "0.4"
+chrono = "0.4"
+flate2 = "1"
+anyhow = "1"
